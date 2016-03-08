@@ -1,6 +1,6 @@
 name: ModernChaplaincy
 favicon: null
-layout_spectrum: 0.90972
+layout_spectrum: 0.62605
 typography_spectrum: 0.49874
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#8a6b68'
     - '#4b4c60'
     - '#a4a9a5'
-  brandStrength: 0.5
-  lightness: 0.6875
-  saturation: 0.1875
+  brandStrength: 0.8125
+  lightness: 0.625
+  saturation: 0.75
   rhythmicContrast: 0.25
 purpose: []
